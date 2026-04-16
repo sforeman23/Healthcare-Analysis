@@ -59,7 +59,7 @@ The dataset includes hospital patient records with the following fields:
 ![Admissions](python/visuals/admissions_by_type.png)
 
 ### 🧪 Test Results Distribution
-![Test Results]()
+![Test Results](https://github.com/sforeman23/Healthcare-Analysis/blob/main/test_results.png)
 
 ---
 
