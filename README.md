@@ -56,7 +56,7 @@ The dataset includes hospital patient records with the following fields:
 ![LOS vs Cost](python/visuals/los_vs_cost.png)
 
 ### 🏥 Admissions by Type
-![Admissions](python/visuals/admissions_by_type.png)
+![Admissions](https://github.com/sforeman23/Healthcare-Analysis/blob/main/admission_type.png)
 
 ### 🧪 Test Results Distribution
 ![Test Results](https://github.com/sforeman23/Healthcare-Analysis/blob/main/test_results.png)
