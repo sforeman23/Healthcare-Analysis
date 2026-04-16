@@ -50,7 +50,7 @@ The dataset includes hospital patient records with the following fields:
 ## 📊 Visualizations
 
 ### 💰  Average Cost by Medical Condition
-![Cost by Condition]()
+![Cost by Condition](https://github.com/sforeman23/Healthcare-Analysis/blob/main/avg_amount_medical_condition.png)
 
 ### ⏱️ Length of Stay vs Billing Amount
 ![LOS vs Cost](python/visuals/los_vs_cost.png)
